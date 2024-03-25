@@ -10,6 +10,8 @@ function App() {
         <Product name="iPhone" price="34.89" />
         <Product name="Vivo" price="12" />
         <Product name="Oppo" price="56" />
+        <Product name="Samsung" price="10" />
+        <Product name="Nothing" price="45" />
       </section>
     </div>
   );
